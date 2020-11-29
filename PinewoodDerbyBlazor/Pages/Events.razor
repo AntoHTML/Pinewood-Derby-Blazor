@@ -1,0 +1,24 @@
+@page "/events"
+<style>
+    .buttons {
+        color: black;
+        background-color: white;
+        border: 2px solid black;
+    }
+</style>
+<h1>Events entry</h1>
+<form action="/http://localhost:5000/races">
+  <label for="events">Choose a car:</label>
+  <select name="events" id="events">
+    <option value="volvo">Volvo</option>
+    <option value="saab">Saab</option>
+    <option value="opel">Opel</option>
+    <option value="audi">Audi</option>
+  </select>
+  <br><br>
+  <input type="submit" value="Submit">
+</form>
+
+@code{
+
+}
