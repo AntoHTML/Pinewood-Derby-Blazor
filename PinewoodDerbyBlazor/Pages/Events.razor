@@ -1,19 +1,17 @@
 @page "/events"
 <style>
-    .buttons {
-        color: black;
-        background-color: white;
-        border: 2px solid black;
-    }
+  .buttons {
+    color: black;
+    background-color: white;
+    border: 2px solid black;
+  }
 </style>
 <h1>Events entry</h1>
-<form action="/http://localhost:5000/races">
-  <label for="events">Choose a car:</label>
-  <select name="events" id="events">
-    <option value="event1">Event1</option>
-  </select>
+<form action="http://localhost:5000/races">
+  <label for="events">Event Name:</label>
+  <input type="text">
   <br><br>
-  <input type="submit" value="Submit">
+  <input type="submit" value="Select" class="buttons">
 </form>
 
 @code{
