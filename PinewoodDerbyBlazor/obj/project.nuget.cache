@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+9hCA/JWpzV2ZqgvIDkOKPz16Ps9muYAroB9lVLRRQKocFFrCd7v+LDqeTgHUCW8mkLzwalrSpnL6z6+NgRrjg==",
+  "dgSpecHash": "DlLNnbgOypDVsPgysZus6JHDSlnQ8lJqYg/z0dxS63wTa7PCChFd04CzuD0YFHJK0UleDW1tNt4hYkgnQyjb/A==",
   "success": true,
   "projectFilePath": "/Users/student/source-repos/Pinewood-Derby-Blazor/PinewoodDerbyBlazor/PinewoodDerbyBlazor.csproj",
   "expectedPackageFiles": [
@@ -30,7 +30,7 @@
     "/Users/student/.nuget/packages/microsoft.jsinterop.webassembly/5.0.0/microsoft.jsinterop.webassembly.5.0.0.nupkg.sha512",
     "/Users/student/.nuget/packages/system.io.pipelines/5.0.0/system.io.pipelines.5.0.0.nupkg.sha512",
     "/Users/student/.nuget/packages/system.net.http.json/5.0.0/system.net.http.json.5.0.0.nupkg.sha512",
-    "/Users/student/.nuget/packages/microsoft.netcore.app.runtime.browser-wasm/5.0.0/microsoft.netcore.app.runtime.browser-wasm.5.0.0.nupkg.sha512"
+    "/Users/student/.nuget/packages/microsoft.netcore.app.runtime.browser-wasm/5.0.1/microsoft.netcore.app.runtime.browser-wasm.5.0.1.nupkg.sha512"
   ],
   "logs": []
 }
